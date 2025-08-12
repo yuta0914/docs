@@ -1,0 +1,7 @@
+theme: jekyll-theme-primer
+locale: ja-JP
+title: ドキュメント
+description: このサイトは GitHub Pages で公開されています
+relative_links:
+  enabled: true
+  collections: true
